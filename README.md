@@ -11,7 +11,7 @@
 
 ### 🌐 Connect with me:
 
-[![TWITTER](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/TuUsuario](https://x.com/Naizu_Akumateki))
+[![TWITTER](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Naizu_Akumateki)
 [![YOUTUBE](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Naizu_Seiy%C5%AB)
 [![DISCORD](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TuServidor)
 

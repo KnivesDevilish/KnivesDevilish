@@ -17,15 +17,15 @@
 
 ---
 
-> *Independent 3D artist and software developer from Venezuela. Focused on custom engine architecture, stylized 3D character pipelines, and indie game development. In terms of programming, the focus is on game development, web-related projects, and problem-solving*
+> *Independent 3D artist and software developer from Venezuela. Focused on general programming, software architecture, stylized 3D character pipelines, and hybrid art workflows. In terms of development, my focus spans engine scripting, tool creation, web-related projects, and problem-solving.*
 
 ### ⚡ Rapid Fire
 
-- 💻 **I'm currently working on:** *Malware Engine & Knives The Hedgehog: Bleedout Protocol*.
-- 🎨 **I'm currently learning / exploring:** Advanced tech art workflows & custom shaders in Blender.
-- 🎙️ **Other projects:** Content creation, voice acting, and indie game production.
+- 🐧 **I'm currently working on:** my general programming skills and software architecture.
+- 💻 **I'm currently learning / exploring:** Primary engine scripting in GDScript, with performance-critical modules in Godot C++ (GDExtension), Advanced hybrid 2D/3D art workflows combining Krita & Blender.
+- 👾 **Other projects:** Content creator (Vtubing), voice acting, and indie game production.
 
-### 🛠️ Skills & Tech Stack
+### 🛠️ My Skills
 
 <p align="left">
   <!-- Iconos de tecnologías (puedes quitar o poner los que uses) -->
@@ -44,18 +44,14 @@
 <p align="center">
   <!-- Tarjeta de Estadísticas Generales -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KnivesDevilish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="KnivesDevilish GitHub Stats" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KnivesDevilish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="KnivesDevilish GitHub Stats" />
   </a>
-  
+  <!-- Tarjeta de Racha de Días (Streak) -->
+  <a href="https://github.com/aungpyaephyo143/github-readme-streak-stats">
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=KnivesDevilish&theme=tokyonight" alt="GitHub Streak" />
+  </a>
   <!-- Tarjeta de Lenguajes Más Usados -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnivesDevilish&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-  </a>
-</p>
-
-<!-- Opcional: Tarjeta de Racha de Días Trabajando (Streak Stats) -->
-<p align="center">
-  <a href="https://github.com/aungpyaephyo143/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnivesDevilish&theme=tokyonight" alt="GitHub Streak" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnivesDevilish&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
   </a>
 </p>

@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Reemplaza esto con el enlace de tu banner o imagen principal -->
-  <img src="URL_DE_TU_BANNER_AQUI.png" width="100%" alt="Banner">
-</p>
-
 # Hi, I'm 奈依茲・悪魔的 [JP: Naizu Akumateki] but you can call me Knives!
 
 **🍊Blender Artist • ⚙️Malware Engine Dev. • ☢️Creator of "Knives The Hedgehog" series**

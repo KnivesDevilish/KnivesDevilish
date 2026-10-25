@@ -20,8 +20,8 @@
 
 ### ⚡ Rapid Fire
 
-- 🐧 **I'm currently working on:** my general programming skills and software architecture.
-- 💻 **I'm currently learning / exploring:** Primary engine scripting in GDScript, with performance-critical modules in Godot C++ (GDExtension), Advanced hybrid 2D/3D art workflows combining Krita & Blender.
+- 🐧 **I'm currently working on:** Static recompilation and porting projects (like *Sonic Riders: Zero Gravity Source*).
+- 💻 **I'm currently learning / exploring:** Low-level systems, CMake cross-compilation for PC & Android, and engine architecture.
 - 👾 **Other projects:** Content creator (Vtubing), voice acting, and indie game production.
 
 ### 🛠️ My Skills

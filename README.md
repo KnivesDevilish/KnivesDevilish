@@ -4,7 +4,7 @@
 
 # Hi, I'm 奈依茲・悪魔的 [JP: Naizu Akumateki - EN: KnivesDevilish] but you can call me Knives!
 
-**🍊Blender Artist • ⚙️Malware Engine Dev. • ☢️Creator of "Knives The Hedgehog" series**
+**🍊Blender Artist • ⚙️Malware Engine Dev. • ☢️Creator of "Naizu The Hedgehog" series**
 
 ---
 

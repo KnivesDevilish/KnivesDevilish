@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KnivesDevilish/KnivesDevilish/blob/main/Wallpaper.png" alt="Banner de presentación" width="100%">
+  <img src="https://github.com/KnivesDevilish/KnivesDevilish/blob/main/Artwork.png" alt="Banner de presentación" width="100%">
 </p>
 
 # Hi, I'm 奈依茲・悪魔的 [JP: Naizu Akumateki - EN: KnivesDevilish] but you can call me Knives!
